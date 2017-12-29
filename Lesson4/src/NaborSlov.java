@@ -3,10 +3,10 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class FourDz {
+public class NaborSlov {
     public static void main(String[] args) {
         Scanner cliScanner = new Scanner(System.in);
-        System.out.println("Введите адрес файла: ");
+        System.out.println("Необходимо : ");
         StringBuffer content = new StringBuffer();
 
         while (content.length() == 0){
